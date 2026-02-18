@@ -1,0 +1,6 @@
+gradio
+torch
+transformers
+sentence-transformers
+scikit-learn
+accelerate
